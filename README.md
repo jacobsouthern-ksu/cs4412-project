@@ -1,3 +1,11 @@
+## Installation
+
+To run and test the model, first enter this instruction into your terminal to install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Introduction
 The [dataset](https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption/data) I am using explores twenty years of hourly electricity consumption data (1998–2018) from the PJM Interconnection grid. 
 
